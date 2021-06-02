@@ -1,0 +1,1 @@
+select title, price from products where price > avg_price_sql();

@@ -1,0 +1,1 @@
+select avg_price_sql() as average_of_all_products;

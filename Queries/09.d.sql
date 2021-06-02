@@ -1,0 +1,1 @@
+select title, price from products where price between avg_price_sql()*0.8 and avg_price_sql()*1.2;
